@@ -1,4 +1,3 @@
 print("Hello world!")
-print("madhu", 33, "QA Engineer")
-print("madhu", 33, "QA Engineer", sep="__", end=" # ")
-print("madhu", 33, "QA Engineer", sep="\n", end="  ")
+# By default print has new line added
+print("Hello, Good morning!", "How are you?")
