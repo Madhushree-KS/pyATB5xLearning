@@ -1,0 +1,2 @@
+Long_variable_name_can_be_crated = "hello"
+print(Long_variable_name_can_be_crated)
