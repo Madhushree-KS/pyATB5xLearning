@@ -1,5 +1,5 @@
 # Task 2
-a = 20
+#a = 20 #NameError: name 'a' is not defined
 print(type(a))
 
 if a == 10:
